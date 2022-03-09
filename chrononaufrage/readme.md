@@ -17,7 +17,7 @@ L'ambiance est triste, détendu
 ![installation](medias_chrononaufrage/installation_5.jpg)
 
 # Schéma de l'installation
-![schéma](medias_chrononaufrage/schema.png)
+![schéma](medias_chrononaufrage/schéma.png)
 Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 # Expérience de l'installation
