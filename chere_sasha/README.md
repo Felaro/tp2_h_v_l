@@ -1,3 +1,5 @@
+![banniere.png](media_chere_sasha/banniere.png)
+
 # Titre
 
 Chère Sasha
