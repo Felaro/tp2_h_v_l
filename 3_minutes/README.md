@@ -1,9 +1,8 @@
 
-![banniere.png](medias/banniere.png)
 
 # Titre
 
-Chère Sasha
+3 minutes
 
 ## Les créateurs et créatrices
 
@@ -13,14 +12,15 @@ Chère Sasha
 
 ## La façon dont le thème du temps est exploité dans la création
 
-On se retrouve dans la chambre de Sasha adolescente et a l'âge adulte.
+Après avoir vecu 3 minutes de bonheur on revit 3 minutes enfermé dans un casier sombre et l'on remarque que le temps passe beaucoup plus lentement.
 
 ## L'ambiance
 
-Après cette expérience on remarque que la vie adulte peut être libératrice et l'on se soucis de moin en moin de l'opinion négatif des autres.
+Ce projet montre a quel point les gens persécuter peuvent se sentir mal et avoir l'impression que leur vie n'est qu'une éternelle souffrance.
 
 ## L'installation en cours dans les studios 
 
+![casier.jpg](medias/casier.jpg)
 
 ## Le schéma de l'installation prévue 
 
