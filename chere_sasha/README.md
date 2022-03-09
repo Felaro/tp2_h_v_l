@@ -21,7 +21,6 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 
 ## L'installation en cours dans les studios 
 
-![casier.jpg](medias/casier.jpg)
 
 ## Le schéma de l'installation prévue 
 
