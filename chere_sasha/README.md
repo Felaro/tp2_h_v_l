@@ -25,6 +25,7 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 
 ## Le schéma de l'installation prévue 
 
+![plantation.jpeg](medias/plantation.jpeg)
 
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
