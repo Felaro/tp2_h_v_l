@@ -6,9 +6,10 @@ Chère Sasha
 
 ## Les créateurs et créatrices
 
-* Naoufal Bensaiad
-* Jérémie Lévesque
-* Samuel Poulin
+* Trish Nguyen
+* Angelina De Silva Jeca
+* Karine Cormier
+* Sabrina Kayani
 
 ## La façon dont le thème du temps est exploité dans la création
 
