@@ -18,7 +18,7 @@ L'ambiance est triste, détendu
 
 # Schéma de l'installation
 ![schéma](medias_chrononaufrage/schéma.png)
-Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
 
 # Expérience de l'installation
 Pour faire fonctionner l'installation, nous devons faire des mouvements devant la kinect pour que les écrans s'animent.
