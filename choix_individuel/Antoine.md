@@ -13,4 +13,4 @@ J'ai décidé de mettre le projet *Chère Sasha* en dernier puisque rien n'a cap
 
 
 
-                                **Antoine Haddad**
+**Antoine Haddad**
