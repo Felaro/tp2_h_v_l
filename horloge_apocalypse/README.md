@@ -1,3 +1,4 @@
+![banniere_page_projet.jpg](media_apocalypse/banniere_page_projet.jpg)
 ## Titre
 L'horloge de l'apocalypse
 ## Les créateurs et créatrices
@@ -16,9 +17,9 @@ Dans leur projet, le thème du temps sera exploité à l'aide d'une vidéo montr
 ## L'ambiance
 L'ambiance du départ sera très calme et apaisant, mais plus le temps avancera sur l'horlorge, plus ça sera désagréable et dépressant.
 ## L'installation en cours dans les studios
-![studio.jgp](media_apocalypse/studio.jpg) source: *photo personnelle*
-![camera.jgp](media_apocalypse/camera.jpg) source: *https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html*
-![projecteurs.jpg](media_apocalypse/projecteurs.jpg) source: *https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html*
+![studio.jgp](media_apocalypse/studio.jpg) Source: *photo personnelle*
+![camera.jgp](media_apocalypse/camera.jpg) [Source](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+![projecteurs.jpg](media_apocalypse/projecteurs.jpg) [Source](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 ## Le schéma de l'installation prévue
 ![plantation.png](media_apocalypse/plantation.png) [Source](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 ## Ce qui sera attendu de moi, en tant qu'interacteur, lorsque je ferai l'expérience de l'installation
