@@ -7,7 +7,7 @@
 ## Facon dont le thème a été utilisé
 La vitesse du vidéo est influencé par la position de l'interacteur.
 ## Ambiance
-L'ambiance est triste, détendu
+L'ambiance est triste et détendu
 
 ## Installation du matériel dans le studio
 ![installation](medias_chrononaufrage/installation.jpg)
