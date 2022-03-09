@@ -11,11 +11,11 @@ Chère Sasha
 
 ## La façon dont le thème du temps est exploité dans la création
 
-
+On se retrouve dans la chambre de Sasha adolescente et a l'âge adulte.
 
 ## L'ambiance
 
-
+Après cette expérience on remarque que la vie adulte peut être libératrice et l'on se soucis de moin en moin de l'opinion négatif des autres.
 
 ## L'installation en cours dans les studios 
 
