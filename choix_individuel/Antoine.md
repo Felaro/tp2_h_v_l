@@ -1,7 +1,7 @@
 ## 1 - L'horloge de l'apocalypse
-Ce projet est celui qui m'a le plus excité. J'adore voir et entendre les différentes époques et l'immersion de ce projet sera toute une expérience. Mon rôle dans un tel projet serait beaucoup sur l'installation et la disposition des éléments étant donné que je suis une personne très manuelle.
+Ce projet est celui qui m'a le plus excité. J'adore voir et entendre les différentes époques et l'immersion de ce projet sera toute une expérience à participer. Celui-ci nous démontre l'impact de notre cilivisation sur la planète, ainsi cela commencera bien, calme, agréable èa écouter, pour en finir mal, triste et démoralisant. Mon rôle dans un tel projet serait beaucoup sur l'installation et la disposition des éléments étant donné que je suis une personne très manuelle.
 ## 2 - 3 minutes
-J'ai choisi 3 minutes en deuxièmes parce que j'aime beaucoup l'interaction avec le lançage de ballon dans le casque de réalité virtuelle. Je suis persuadé de ressentir beaucoup de plaisir à y jouer, mais la seconde partie j'ignore si je vais plus ressentir du stress, de l'intrigue ou peut-être même de l'ennui, en tout cas j'ai hâte de le découvrir. Dans un tel projet, je me chargerais définitivement de la programmation et de la conception du jeu virtuelle, puisque j'adore la conception de jeu.
+J'ai choisi 3 minutes en deuxièmes parce que j'aime beaucoup l'idée de l'interaction des objets avec le lançage de ballon dans le casque de réalité virtuelle. Je suis persuadé de ressentir beaucoup de plaisir à y jouer, mais la seconde partie j'ignore si je vais plus ressentir du stress, de l'intrigue ou peut-être même de l'ennui, en tout cas j'ai hâte de le découvrir. Dans un tel projet, je me chargerais définitivement de la programmation et de la conception du jeu virtuelle, puisque j'adore la conception de jeu.
 ## 3 - Distorsion collective
 J'ai bien aimé l'ambiance de faire revive pour les étudiants ou faire vivre au visiteur l'expérience de l'école en télétravail. Je sens que je pourrais être angoissé à cause que cela pourrait me faire remémorer de mauvais souvenir du passé, mais cela ne m'empêchera pas de passer tout de même un bon moment. Futur conceptionneur de jeu que je suis, mon rôle serait la conception VR de l'environnement de ce projet.
 ## 4 - Jeu Temporel
@@ -13,4 +13,4 @@ J'ai décidé de mettre le projet *Chère Sasha* en dernier puisque rien n'a cap
 
 
 
-*Antoine Haddad*
+                                **Antoine Haddad**
