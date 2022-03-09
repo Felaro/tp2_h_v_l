@@ -26,7 +26,7 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 ## Le schéma de l'installation prévue 
 
 ![plantation.jpeg](medias/plantation.jpeg)
-![casier.jpg] https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+![source](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
 
