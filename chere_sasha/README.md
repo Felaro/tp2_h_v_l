@@ -1,4 +1,4 @@
-![banniere.png](chere_sasha_medias/banniere.png)
+![banniere.png](medias/banniere.png)
 
 # Titre
 
