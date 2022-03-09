@@ -1,6 +1,6 @@
 # Ceci est le dossier de présentation du projet Distortion collective
 
-# Titre: Distortion collective
+# Distortion collective
 
 ## Réalisé par William Dubois et Ghislain Lacombe
 
@@ -19,13 +19,13 @@ L'ambiance est angoissante
 Source:https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
 
 ## Expérience de l'installation
-Pour faire fonctionner l'installation, nous devons faire des mouvements devant la kinect pour que les écrans s'animent.
+Pour faire fonctionner l'installation, nous devons mettre le casque VR pour pouvoir vivre l'expérience
 
 ## Programmes essentiels
-Les programmes essentiels pour faire ce projet sont atelier modélisation 3D, animation 2D et conception vidéo.
+Les programmes essentiels pour faire ce projet sont modélisation 3D, animation 2D et conception vidéo.
 
 ## Technique inconnue
-L'effet de diaporama/depth mapping avec la détection de présence.
+La réalité virtuelle
 
 ## Composante inconnue
-Le kit POE
+La kinect
