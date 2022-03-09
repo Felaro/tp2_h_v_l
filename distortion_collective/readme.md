@@ -7,7 +7,7 @@
 ## Facon dont le thème a été utilisé
 La vitesse du vidéo est influencé par la position de l'interacteur.
 ## Ambiance
-L'ambiance est angoissante
+Durant l'expérience, l'ambiance est angoissante. Après l'expérience, l'ambiance est joyeuse.
 
 ## Installation du matériel dans le studio
 ![installation](medias_distortion_collective/installation.png)
