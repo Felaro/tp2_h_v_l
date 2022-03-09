@@ -21,8 +21,9 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 
 ## L'installation en cours dans les studios 
 
+![casier.jpg](medias/casier.jpg)
 
-## Le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+## Le schéma de l'installation prévue 
 
 
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
