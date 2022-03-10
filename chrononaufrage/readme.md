@@ -1,8 +1,10 @@
 # Ceci est le dossier de présentation du projet Chrononaufrage
 
-# Chronaufrage
+# Titre
+Chronaufrage
 
-## Réalisé par Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, et Émilie Fontaine
+## Créateurs
+Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, et Émilie Fontaine
 
 ## Facon dont le thème a été utilisé
 La vitesse du vidéo est influencé par la position de l'interacteur.
