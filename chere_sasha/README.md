@@ -21,6 +21,7 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 
 ## L'installation en cours dans les studios 
 
+![banniere.png](medias/banniere.png)
 
 ## Le schéma de l'installation prévue 
 
