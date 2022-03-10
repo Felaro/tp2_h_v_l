@@ -31,9 +31,17 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
-
+Cette installation est contemplative, 
 
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
+
+## Technique inconnue
+
+Réalité Virtuel
+
+## Composante inconnue
+
+Détecteur de mouvement
 
 
