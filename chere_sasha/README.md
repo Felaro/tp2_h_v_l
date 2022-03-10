@@ -29,19 +29,22 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 ![plantation.jpeg](medias/plantation.jpeg)
 [Source schéma de plantation](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
-## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+## Ce qui sera attendu de nous, en tant qu'interacteur.trice, lorsque l'ont vivra l'expérience de l'installation
 
-Cette installation est contemplative, 
+Cette installation est contemplative, donc ce qui est attendu de nous est simplement d'apprécier le moment et suivre Sasha dans son aventure. 
 
-## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+## 3 cours du programme qui serait nécessaire pour la réalisation de ce projet
 
+Conception vidéo
+Animation 2D
+Conception sonore
 
 ## Technique inconnue
 
-Réalité Virtuel
+QLC
 
 ## Composante inconnue
 
-Détecteur de mouvement
+Arduino nano (un type de carte microcontrôleur)
 
 
