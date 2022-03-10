@@ -21,7 +21,8 @@ Après cette expérience on remarque que la vie adulte peut être libératrice e
 
 ## L'installation en cours dans les studios 
 
-![banniere.png](medias/banniere.png)
+![decors.jpg](medias/decors.jpg)
+[Source décors](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
 ## Le schéma de l'installation prévue 
 
