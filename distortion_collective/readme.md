@@ -13,12 +13,15 @@ Durant l'expérience, l'ambiance est angoissante. Après l'expérience, l'ambian
 
 ## Installation du matériel dans le studio
 ![installation](medias_distortion_collective/installation.png)
+[Source](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html)
 ![installation](medias_distortion_collective/installation_2.png)
+[Source](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html)
 ![installation](medias_distortion_collective/installation_3.png)
+[Source](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html)
 
 ## Schéma de l'installation
 ![schéma](medias_distortion_collective/schéma.png)
-Source:https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
+[Source](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html)
 
 ## Expérience de l'installation
 Pour faire fonctionner l'installation, nous devons mettre le casque VR pour pouvoir vivre l'expérience
