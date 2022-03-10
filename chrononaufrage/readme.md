@@ -13,10 +13,15 @@ L'ambiance est triste et détendu
 
 ## Installation du matériel dans le studio
 ![installation](medias_chrononaufrage/installation.jpg)
+[Source](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 ![installation](medias_chrononaufrage/installation_2.jpg)
+[Source](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 ![installation](medias_chrononaufrage/installation_3.jpg)
+[Source](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 ![installation](medias_chrononaufrage/installation_4.jpg)
+[Source](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 ![installation](medias_chrononaufrage/installation_5.jpg)
+[Source](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 
 ## Schéma de l'installation
 ![schéma](medias_chrononaufrage/schéma.png)
