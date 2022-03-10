@@ -24,7 +24,7 @@ Ce projet montre a quel point les gens persécuter peuvent se sentir mal et avoi
 
 ## Le schéma de l'installation prévue 
 
-![plantation.jpeg](medias/plantation.jpeg)
+![plantation.png](medias/plantation.png)
 [Source schéma de plantation](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
 ## Ce qui sera attendu de nous, en tant qu'interacteur.trice, lorsque l'ont vivra l'expérience de l'installation.
