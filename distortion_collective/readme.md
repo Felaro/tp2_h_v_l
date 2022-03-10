@@ -1,11 +1,13 @@
 # Ceci est le dossier de présentation du projet Distortion collective
 
-# Distortion collective
+# Titre
+Distortion collective
 
-## Réalisé par William Dubois et Ghislain Lacombe
+## Créateurs
+William Dubois et Ghislain Lacombe
 
 ## Facon dont le thème a été utilisé
-La vitesse du vidéo est influencé par la position de l'interacteur.
+Plus le temps passe, plus le temps s'accélère.
 ## Ambiance
 Durant l'expérience, l'ambiance est angoissante. Après l'expérience, l'ambiance est joyeuse.
 
