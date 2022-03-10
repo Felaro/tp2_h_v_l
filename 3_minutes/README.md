@@ -26,7 +26,23 @@ Ce projet montre a quel point les gens persécuter peuvent se sentir mal et avoi
 
 ![plantation.jpeg](medias/plantation.jpeg)
 [Source schéma de plantation](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
-## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+
+## Ce qui sera attendu de nous, en tant qu'interacteur.trice, lorsque l'ont vivra l'expérience de l'installation.
 
 
-## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+
+
+## 3 cours du programme qui serait nécessaire pour la réalisation de ce projet
+
+
+
+
+## Technique inconnue
+
+
+
+## Composante inconnue
+
+
+
+
