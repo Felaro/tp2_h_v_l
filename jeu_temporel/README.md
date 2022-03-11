@@ -25,3 +25,11 @@ Interactivité Web
 Espace Intéractif
 
 Introduction à la programation
+
+##  Technique inconnue
+Memoji, serais une application permettant de créer et de personnaliser des visages de style *emoji*. 
+
+## Composante technologique inconnue
+
+Arduino, il s'agit d'une plateforme de prototypage open-source qui permet aux utilisateurs de créer des objets électroniques interactifs à partir de cartes électroniques matériellement libres sur lesquelles se trouve un microcontrôleur. 
+Source: [Wikipédia](https://fr.wikipedia.org/wiki/Arduino)
