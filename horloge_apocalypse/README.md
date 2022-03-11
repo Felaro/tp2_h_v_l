@@ -30,3 +30,12 @@ Conception sonore interactive
 Montage vidéo
 
 Traitement vidéo
+
+##  Technique inconnue
+Spatialisation des sons, consistent à créer l'illusion que des sons proviennent de diverses directions de l'espace et à organiser ainsi des scènes sonores en trois dimensions. Elles connaissent aujourd'hui un essor important. 
+Source: [Pourlascience.fr](https://www.pourlascience.fr/sd/informatique/la-spatialisation-du-son-1755.php#:~:text=Les%20techniques%20de%20spatialisation%20du,aujourd'hui%20un%20essor%20important.)
+
+## Composante inconnue
+
+Arduino, il s'agit d'une plateforme de prototypage open-source qui permet aux utilisateurs de créer des objets électroniques interactifs à partir de cartes électroniques matériellement libres sur lesquelles se trouve un microcontrôleur. 
+Source: [Wikipédia](https://fr.wikipedia.org/wiki/Arduino)
